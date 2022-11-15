@@ -1,8 +1,8 @@
 ### EffectiveSkill
 
-> 分享 **高效** 的 **办公技巧**，支持 **Windows**、**Mac**、**Linux** 三个平台。
+> 分享 **高效** 的 **办公技巧**，支持 **Windows**、**Mac** 平台。
 >
-> A project to share **effective** **office** **skill**. Available for platform:**Windows**、**Mac**、**Linux**。
+> A project to share **effective** **office** **skill**. Available for platform:**Windows**、**Mac**。
 
 
 
