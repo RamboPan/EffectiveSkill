@@ -24,15 +24,17 @@
 
 > 将 **listFiles.bat** 文件放在需要的目录下，直接双击即可，在该目录下能够找到 **files.txt** 文件。
 
+<img src="/1_ListFiles/gif/winodwsCurFiles.gif">
+
 - 输出某个目录所有文件
 
-> 1.打开命令行，将  **listFiles.bat** 文件拖入命令行框，按一下空格。
+> （Win 键 + R 打开运行，输入 cmd ，可以打开命令行）
 >
-> （这里推荐：在任意的文件夹下面，按住 shift键 + 鼠标右键，点击 **在此处打开命令行窗口**）
+> 1.打开命令行，将  **listFiles.bat** 文件拖入命令行，按一下空格。
 >
-> 2.将需要输出的文件夹拖入（这里可以复制路径，但是相对来说拖入文件夹更方便），按回车执行，在当前目录下可以找到 **files.txt** 文件（这里是命令行默认打开的目录）
+> 2.将需要输出的文件夹拖入（这里可以复制路径，但是相对来说拖入文件夹更方便），按回车执行，在当前目录下可以找到 **files.txt** 文件。
 
-
+<img src="/1_ListFiles/gif/windowsTargetFiles.gif">
 
 ---
 
@@ -62,11 +64,11 @@
 >
 > （如果第一次使用，需要关联下运行方式。右键点击 - 打开方式 - 其他 - 将推荐应用程序改为所有应用程序 - 选择终端（不好找可以搜索）-  勾选始终以此方式打开 - 打开）
 
-![](./gif/macCurFiles.gif)
+<img src="/1_ListFiles/gif/macCurFiles.gif">
 
 - 输出某个目录所有文件
 
 > 打开命令行（终端），将脚本文件拖入，加一个空格，再拖入需要输出的文件目录，按回车执行。在脚本目录下能够找到 **files.txt** 文件。
 
-![](./gif/macTargetFiles.gif)
+<img src="/1_ListFiles/gif/macTargetFiles.gif">
 
